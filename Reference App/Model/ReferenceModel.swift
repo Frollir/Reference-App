@@ -24,7 +24,7 @@ struct ReferenceModel {
             ReferenceModel(
                 image: UIImage(named: "1"),
                 title: "CS 1.6",
-                detail: "Многопользовательская компьютерная игра в жанре шутера от первого лица, разработанная и выпущенная для Microsoft Windows американской компанией Valve. Первоначально Counter-Strike представляла собой пользовательскую модификацию к игре Half-Life"
+                detail: "Многопользовательская компьютерная игра в жанре шутера от первого лица, разработанная и выпущенная для Microsoft Windows американской компанией Valve. Первоначально Counter-Strike представляла собой пользовательскую модификацию к игре Half-Lif"
             ),
             ReferenceModel(
                 image: UIImage(named: "css"),
